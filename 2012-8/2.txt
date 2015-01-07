@@ -1,0 +1,4 @@
+Actually, this is a program about compute the total of 1, 2 ... to 9. 
+First, the first two lines set x to 1, and y to 0.
+Then it begins to add x to y, then add 1 to x, after finishing these two steps, it begins to compare x with 10, if x is not equal to 10(means x is smaller than 10), it will jump back to add x y. Else if x is equal to 10, it will execute PRN x y and terminate. 
+So the result of PRN will be 10, 45.
